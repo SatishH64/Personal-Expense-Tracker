@@ -203,16 +203,6 @@ npm run build
 - ✓ Idempotency handling for retries and page refreshes
 - ✓ Graceful error handling with retry option
 
-### Possible Future Enhancements
-- Category-wise spending summary with charts
-- Date range filtering
-- Expense export to CSV
-- Monthly summaries and trends
-- Budget limits and alerts
-- Multi-currency support
-- Data visualization with charts
-- Recurring expense templates
-
 ## Error Scenarios Handled
 
 1. **Network Failures**: Graceful error display with retry button
