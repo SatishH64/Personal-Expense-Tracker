@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { ExpenseForm } from './components/ExpenseForm';
 import { ExpenseList } from './components/ExpenseList';
 import { ExpenseSummary } from './components/ExpenseSummary';
@@ -57,6 +58,7 @@ function App() {
           </p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
