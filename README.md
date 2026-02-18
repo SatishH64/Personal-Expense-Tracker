@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A production-grade personal finance tool for tracking and analyzing personal expenses with real-time synchronization and resilience to network issues.
+A personal finance tool for tracking and analyzing personal expenses with real-time synchronization and resilience to network issues.
 
 ## Features
 
